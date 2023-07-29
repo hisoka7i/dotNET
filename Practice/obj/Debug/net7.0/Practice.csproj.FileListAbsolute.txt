@@ -1,0 +1,15 @@
+/Users/air/Desktop/DotnetWebAppp/Practice/obj/Debug/net7.0/Practice.csproj.AssemblyReference.cache
+/Users/air/Desktop/DotnetWebAppp/Practice/obj/Debug/net7.0/Practice.GeneratedMSBuildEditorConfig.editorconfig
+/Users/air/Desktop/DotnetWebAppp/Practice/obj/Debug/net7.0/Practice.AssemblyInfoInputs.cache
+/Users/air/Desktop/DotnetWebAppp/Practice/obj/Debug/net7.0/Practice.AssemblyInfo.cs
+/Users/air/Desktop/DotnetWebAppp/Practice/obj/Debug/net7.0/Practice.csproj.CoreCompileInputs.cache
+/Users/air/Desktop/DotnetWebAppp/Practice/bin/Debug/net7.0/Practice
+/Users/air/Desktop/DotnetWebAppp/Practice/bin/Debug/net7.0/Practice.deps.json
+/Users/air/Desktop/DotnetWebAppp/Practice/bin/Debug/net7.0/Practice.runtimeconfig.json
+/Users/air/Desktop/DotnetWebAppp/Practice/bin/Debug/net7.0/Practice.dll
+/Users/air/Desktop/DotnetWebAppp/Practice/bin/Debug/net7.0/Practice.pdb
+/Users/air/Desktop/DotnetWebAppp/Practice/obj/Debug/net7.0/Practice.dll
+/Users/air/Desktop/DotnetWebAppp/Practice/obj/Debug/net7.0/refint/Practice.dll
+/Users/air/Desktop/DotnetWebAppp/Practice/obj/Debug/net7.0/Practice.pdb
+/Users/air/Desktop/DotnetWebAppp/Practice/obj/Debug/net7.0/Practice.genruntimeconfig.cache
+/Users/air/Desktop/DotnetWebAppp/Practice/obj/Debug/net7.0/ref/Practice.dll
